@@ -19,4 +19,6 @@ The full formatted version is in [`Supplementary_Material.docx`](Supplementary_M
 - **S4**: Study Id, Water Index Formulation, Study Area / Geographic Context, Vegetation Type, Key Methodological Contribution
 - **S5**: Study Id, Water Index Formulation, Study Area / Geographic Context, Coastal Application Type, Key Methodological Contribution
 
+**Study IDs.** The ID in square brackets (e.g. [10]) is the number of that study in the reference list of the manuscript (212 numbered references, all cited in the text).
+
 CSV files are UTF-8 and open directly in Excel.
