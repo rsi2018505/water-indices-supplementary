@@ -1,0 +1,40 @@
+﻿STUDY ID,WATER INDEX FORMULATION,STUDY AREA / GEOGRAPHIC CONTEXT,VEGETATION TYPE,KEY METHODOLOGICAL CONTRIBUTION
+[51],NDWI = (R(0.86 μm) – R(1.24 μm)) / (R(0.86 μm) + R(1.24 μm)),"Jasper Ridge, California and Holland, Maine",General vegetation,"Established NDWI for vegetation liquid water remote sensing, demonstrating reduced sensitivity to atmospheric effects compared to NDVI"
+[35],Mid-infrared NDWI,SMEX02 experiment,Corn and soybeans,"Demonstrated NDWI’s superiority over NDVI for VWC estimation, with NDVI saturating at lower VWC"
+[56],NDWI,SMEX02 watershed,Corn and soybean canopies,"Extended NDWI for daily VWC mapping and regional monitoring, showing continued response to VWC changes while NDVI saturated"
+[58],SWIR (1650 nm) band-based NDWI,General,Corn and soybeans,"Developed sub-pixel reflectance unmixing approach, showing SWIR-based NDWI outperformed NDVI and other NDWIs for VWC and dry biomass estimation"
+[32],"NDWI(860,970), NDWI(860,1240), NDWI(860,1640), NDWI(1240,1640)","SMEX02, HiWATER2012, Baoding2018 field experiments",Corn,Proposed optimized NDWI-based scheme with exponential function for CWC retrieval (R = 0.87) and VWC retrieval (R = 0.89)
+[101],Water Absorption Area Index (WAAI) and Depth Water Index (DWI),"Barrax, Spain (SPARC03 experiment)","Lucerne, corn, potato, sugar beet, onion",Developed generically applicable CWC indices achieving R² of 0.8 (WAAI) and 0.7 (DWI) across heterogeneous croplands
+[144],"NDWI, SRWI, PWI","California, USA",Chaparral vegetation,Demonstrated radiative transfer model inversion for equivalent water thickness estimation from MODIS (r² = 0.7 with ground LFM)
+[105],Water Index WI = R900 / R970,Mediterranean region,"Pinus halepensis, Quercus ilex, Quercus coccifera, Arbutus unedo, Cistus albidus, Cistus monspeliensis, Phillyrea angustifolia, Pistacia lentiscus, Brachypodium retusum","Established WI correlation with PWC, showing improved correlations when normalized by NDVI"
+[90],"NDWI, Vegetation Dryness Index (VDI)",Russian Far East,Forest vegetation,"Developed VDI for forest fire risk assessment, detecting high ignition potential areas and potential fire-spread direction"
+[130],NMDI = (R860 - (R1640 - R2130)) / (R860 + (R1640 - R2130)),General,Soil and vegetation,Proposed NMDI with enhanced sensitivity to drought severity using dual liquid water absorption channels
+[125],NDWI,"Poyang Lake, China",Floodplain wetland vegetation,Linked NDWI to water level (75% explanation) and geese occurrence (42% explanation) for habitat suitability assessment
+[24],NDWI,Dobruja region,Agricultural soil,"Demonstrated UAV-based NDWI for topsoil moisture monitoring, with regression analysis confirming dependence on meteorological data"
+[31],"NDWI, PDI, NDVI, SAVI","Las Palmas, Colombia","Potatoes, bare soil, pasture",Showed NDWI correlates significantly with soil moisture on potato crops irrespective of scale
+[44],"NDWI, NDVI","Godavari River sub-basins, India",Basin vegetation,"Analyzed hydro-vegetation dynamics, finding NDWI values from -0.46 to -0.61 indicating diverse water presence changes"
+[23],"NDWI, NDVI, LST","Al-Asfar Lake, Saudi Arabia",Lake bank vegetation,"Found NDWI increased (0.0075/year) while NDVI decreased (0.0066/year), with LST negatively correlated with NDWI"
+[74],NDWI,"Riverlands, South Africa",Fynbos vegetation,"Validated NDWI against soil water content, achieving adjusted R² of 0.71, 0.59, and 0.54 for 10, 40, and 80 cm soil depth"
+[104],"NDWI, NDVI, EVI, NDDI","Iowa, USA",Corn and soybeans,"Found corn indicators correlated with soil moisture at deeper depths (32-48 days lag), soybeans at shallower depths (0-16 days lag)"
+[79],"NDWI, NDVI",General,Various land covers,"Combined NDVI and NDWI for vegetation classification, noting difficulty in distinguishing vegetation classes with similar coloring"
+[80],"NDWI, NDVI",China and Mongolia desert,Desert vegetation,"Monitored vegetation drought status, finding NDWI values from -0.05 to -0.35 with decreasing trend over 8 years"
+[47],"NDMI, NDWI, NDVI, LST",Anzali wetland area,Wetland vegetation,"Investigated water stress with land use emphasis, finding LST minimums of 13.94, 22.36, and 14.6 °C for 2013, 2018, 2023"
+[93],"NDWI, NDVI, NDBI, albedo, LST","Shazand Watershed, Iran",Various land uses,"Found bivariable models using NDWI, NDVI, and NDBI had best performance for explaining LST spatial variations"
+[96],Water Deficit Index (WDI),"Phoenix, Arizona",Alfalfa,Introduced VIT trapezoid and WDI for evapotranspiration estimation in partially vegetated fields
+[111],"NDWI, NDVI, SR, TVI, TCT","Assam, India",Tea plantation,Achieved 87% accuracy for waterlogging delineation in tea areas using NDWI with TCT
+[81],NDWI,"Jeju Island, South Korea",General soil,"Validated soil moisture maps against NDWI from KOMPSAT-3 and Landsat-8, showing high correlation"
+[39],"NDWI, CIgreen, NDVI, VCI, VHI",Taiwan,General vegetation,Found NDWI provided better early warning system for drought compared to vegetation indices alone
+[43],"NDWI, MSAVI","Guadalupe Valley Basin, Mexico",General vegetation,Found NDWI IS2–SPI AN correlation of R = 0.89 for meteorological drought detection
+[63],NDDI = (NDVI - NDWI) / (NDVI + NDWI),"West Sumatera, Indonesia",Agricultural land,Demonstrated NDDI for identifying drought-affected agricultural land in humid tropical environments
+[28],"NDVI, VCI, NDWI, MNDWI, LSWI+5","Western Cape, South Africa",General vegetation,"Compared Sentinel-2 and Landsat-8 for drought impact monitoring, achieving 77.27% overall accuracy for surface waterbody mapping"
+[34],"NDWI, MNDWI, NDPI, MBWI, AWEInsh, WCWI","Telangana, India",Semi-arid vegetation,Developed weighted composite water index (WCWI) from multi-index fusion for water resource planning
+[15],NDWI,Dobruja region,Agricultural soil,Proved tendency of dependence of NDWI on meteorological data through regression analysis
+[22],"NDWI, MNDWI, NDMI","Las Palmas, Colombia","Potatoes, bare soil, pasture",Found NDWI correlates significantly with soil moisture on potato crops irrespective of scale
+[33],"NDWI, MNDWI, NDVI","South Chickamauga Creek, Tennessee",Floodplain vegetation,Demonstrated PlanetScope imagery for flood mapping of narrow creeks with >90% accuracy
+[59],NDWI,"Downtown Columbia, South Carolina",Urban vegetation,Enhanced NRT NDWI with real-time gauge readings and social media for flood probability reconstruction
+[75],MNDWI,"Kanji Reservoir, Niger River",Floodplain vegetation,Developed UResNetMNDWI ensemble with deep transfer learning for probabilistic water extent mapping
+[78],"NDWI, MNDWI, AWEI",Bodrog river,Riparian vegetation,"Compared SAR and optical data for inundation mapping, achieving 98.6% overall accuracy"
+[82],NDWI,"Brazilian Northeast, Bahia",Semi-arid vegetation,Confirmed NDWI effectiveness for monitoring drought in semi-arid Bahia during 2011/12 drought
+[94],"NDWI, MNDWI, WI2015",Global,Global vegetation,Presented monthly surface-water maps from three water indices for global drought monitoring
+[110],NDWI,"Rangpur City, Bangladesh",Waterlogged vegetation,Achieved 93% accuracy for seasonal waterlogging detection using Landsat NDWI
+[124],"NDWI, MNDWI",Qingjiang River,Riparian vegetation,Quantitatively monitored water resource dynamic change from 1987 to 2009
