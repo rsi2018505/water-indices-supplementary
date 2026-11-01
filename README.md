@@ -7,7 +7,7 @@ Supplementary material for the review *Remote Sensing-Based Water Indices: A Com
 | S1 | Characteristics of All Included Studies (n = 144) | 144 | [data/S1_included_studies.csv](data/S1_included_studies.csv) |
 | S2 | Water Body Extraction and Change Detection | 91 | [data/S2_water_body_extraction.csv](data/S2_water_body_extraction.csv) |
 | S3 | Flood and Drought Monitoring | 23 | [data/S3_flood_drought.csv](data/S3_flood_drought.csv) |
-| S4 | Vegetation and Soil Moisture Assessment | 39 | [data/S4_vegetation_soil_moisture.csv](data/S4_vegetation_soil_moisture.csv) |
+| S4 | Vegetation and Soil Moisture Assessment | 40 | [data/S4_vegetation_soil_moisture.csv](data/S4_vegetation_soil_moisture.csv) |
 | S5 | Coastal and Shoreline Monitoring | 16 | [data/S5_coastal_shoreline.csv](data/S5_coastal_shoreline.csv) |
 
 The full formatted version is in [`Supplementary_Material.docx`](Supplementary_Material.docx).
@@ -19,6 +19,6 @@ The full formatted version is in [`Supplementary_Material.docx`](Supplementary_M
 - **S4**: Study Id, Water Index Formulation, Study Area / Geographic Context, Vegetation Type, Key Methodological Contribution
 - **S5**: Study Id, Water Index Formulation, Study Area / Geographic Context, Coastal Application Type, Key Methodological Contribution
 
-**Study IDs.** The ID in square brackets (e.g. [10]) is the number of that study in the reference list of the manuscript (212 numbered references, all cited in the text).
+**Study IDs.** The ID in square brackets (e.g. [10]) is the number of that study in the reference list of the manuscript (212 numbered references, all cited in the text). A study that addresses more than one theme appears in more than one of Tables S2-S5; each of the 144 studies appears in at least one..
 
 CSV files are UTF-8 and open directly in Excel.

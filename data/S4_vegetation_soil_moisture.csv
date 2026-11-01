@@ -38,3 +38,4 @@
 [93],"NDWI, MNDWI, WI2015",Global,Global vegetation,Presented monthly surface-water maps from three water indices for global drought monitoring
 [109],NDWI,"Rangpur City, Bangladesh",Waterlogged vegetation,Achieved 93% accuracy for seasonal waterlogging detection using Landsat NDWI
 [123],"NDWI, MNDWI",Qingjiang River,Riparian vegetation,Quantitatively monitored water resource dynamic change from 1987 to 2009
+[63],Normalized Difference Water Index (NDWI),Not specified in source record,Corn and soybean canopies (vegetation water content),Quantitative bias and standard error against ground-based vegetation water content (VWC) measurements; NDWI continued to reflect changes in VWC while NDVI saturated
