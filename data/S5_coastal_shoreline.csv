@@ -1,17 +1,17 @@
 ﻿STUDY ID,WATER INDEX FORMULATION,STUDY AREA / GEOGRAPHIC CONTEXT,COASTAL APPLICATION TYPE,KEY METHODOLOGICAL CONTRIBUTION
-[21],"MNDWI, CSI (35 combinations)","North Jakarta, Indonesia",Coastal surface inundation mapping,"Demonstrated MNDWI as the best algorithm for inundation mapping, achieving overall accuracy 99.56-99.99% and Kappa 0.97-1.00"
-[15],Four different classification indices,Not specified,Coastline extraction,"Applied unsupervised k-means classification to indices, comparing with manually vectorized coastline from RGB composition"
-[39],"NDWI, MNDWI","Lazio region, Italy",Coastline mapping,Achieved intrinsic accuracy close to the geometric resolution of Sentinel-2 bands
-[17],NDWI,Pléiades imagery,Coastline extraction accuracy evaluation,Proposed two methods for accuracy evaluation based on geometrical analysis of polygons from extracted and reference coastlines
-[47],NDWI,"UAV-RGB, Landsat-9, Sentinel-2",Coastline extraction accuracy assessment,"Both UAV and Sentinel-2 achieved Exclusive order (THU 5 m, 95%), Landsat-9 achieved Special order (THU 10 m, 95%)"
-[60],NDWI,"Torvaianica to Tor Caldara, Italy",Coastal change and shoreline dynamics,"Reconstructed 40-year shoreline changes, finding max LRR of -1.07 m/yr and 86.9% erosion"
-[59],"AWEIsh, AWEInsh, NDWI, MNDWI","Ninh Binh and Nam Dinh, Vietnam",Shoreline change detection,"AWEIsh achieved highest accuracy; Nam Dinh eroded up to 987 m, Ninh Binh accreted several km"
-[56],NDWI,"Lake Sevan, Armenia",Shoreline change assessment,Combined NDWI with DSAS for lake shoreline change analysis over 1973-2015
-[115],NDWI,Australian coastline,Intertidal extent and topography mapping,Developed median pixel compositing of NDWI stacks in the tidal domain for continental-scale intertidal model
-[121],MNDWI,"Porong River estuary, Indonesia",Geomorphological evolution and sedimentation,"Combined numerical modeling with MNDWI time series, finding land expansion from 6.29 ha (2000) to 147.86 ha (2024)"
-[16],"MNDWI, NDVI, NDWI",Hunga Tonga-Hunga Ha’apai island,Volcanic island morphology change detection,"MNDWI was the only effective index due to lava soil, applied MLC and post-classification change detection"
-[126],NDWI,General coastal areas,Coastal monitoring website,Developed Google Earth Engine web application for automated coastal monitoring from 1985
-[40],NDWI,"QuickBird, WorldView-2, WorldView-3",High-resolution coastline extraction,"Stacked water probability algorithm from ~12,600 images, achieving 2 m resolution coastline"
-[61],Normalized difference water indexes,"Kestel Dam, Izmir, Turkey",Shoreline extraction using LIDAR,Demonstrated LIDAR-derived intensity image can substitute for NIR band in NDWI-based shoreline extraction
-[99],"NDWI, MNDWI","Landsat 9 OLI, Sentinel-2",Fully automatic coastline extraction,"PCA-based unsupervised classification outperformed NDWI and MNDWI, with RMSE lower than pixel size"
-[111],MNDWI,Southwestern coast of Bangladesh,Waterlogging and channel morphological change,"Shallow water decreased by 14.30 km²/yr, wetland increased by 67.12 km²/yr over 1989-2020"
+[138],"MNDWI, CSI (35 combinations)","North Jakarta, Indonesia",Coastal surface inundation mapping,"Demonstrated MNDWI as the best algorithm for inundation mapping, achieving overall accuracy 99.56-99.99% and Kappa 0.97-1.00"
+[139],Four different classification indices,Not specified,Coastline extraction,"Applied unsupervised k-means classification to indices, comparing with manually vectorized coastline from RGB composition"
+[140],"NDWI, MNDWI","Lazio region, Italy",Coastline mapping,Achieved intrinsic accuracy close to the geometric resolution of Sentinel-2 bands
+[141],NDWI,Pléiades imagery,Coastline extraction accuracy evaluation,Proposed two methods for accuracy evaluation based on geometrical analysis of polygons from extracted and reference coastlines
+[142],NDWI,"UAV-RGB, Landsat-9, Sentinel-2",Coastline extraction accuracy assessment,"Both UAV and Sentinel-2 achieved Exclusive order (THU 5 m, 95%), Landsat-9 achieved Special order (THU 10 m, 95%)"
+[143],NDWI,"Torvaianica to Tor Caldara, Italy",Coastal change and shoreline dynamics,"Reconstructed 40-year shoreline changes, finding max LRR of -1.07 m/yr and 86.9% erosion"
+[144],"AWEIsh, AWEInsh, NDWI, MNDWI","Ninh Binh and Nam Dinh, Vietnam",Shoreline change detection,"AWEIsh achieved highest accuracy; Nam Dinh eroded up to 987 m, Ninh Binh accreted several km"
+[145],NDWI,"Lake Sevan, Armenia",Shoreline change assessment,Combined NDWI with DSAS for lake shoreline change analysis over 1973-2015
+[146],NDWI,Australian coastline,Intertidal extent and topography mapping,Developed median pixel compositing of NDWI stacks in the tidal domain for continental-scale intertidal model
+[147],MNDWI,"Porong River estuary, Indonesia",Geomorphological evolution and sedimentation,"Combined numerical modeling with MNDWI time series, finding land expansion from 6.29 ha (2000) to 147.86 ha (2024)"
+[148],"MNDWI, NDVI, NDWI",Hunga Tonga-Hunga Ha’apai island,Volcanic island morphology change detection,"MNDWI was the only effective index due to lava soil, applied MLC and post-classification change detection"
+[149],NDWI,General coastal areas,Coastal monitoring website,Developed Google Earth Engine web application for automated coastal monitoring from 1985
+[150],NDWI,"QuickBird, WorldView-2, WorldView-3",High-resolution coastline extraction,"Stacked water probability algorithm from ~12,600 images, achieving 2 m resolution coastline"
+[151],Normalized difference water indexes,"Kestel Dam, Izmir, Turkey",Shoreline extraction using LIDAR,Demonstrated LIDAR-derived intensity image can substitute for NIR band in NDWI-based shoreline extraction
+[152],MNDWI,Southwestern coast of Bangladesh,Waterlogging and channel morphological change,"Shallow water decreased by 14.30 km²/yr, wetland increased by 67.12 km²/yr over 1989-2020"
+[153],"NDWI, MNDWI","Landsat 9 OLI, Sentinel-2",Fully automatic coastline extraction,"PCA-based unsupervised classification outperformed NDWI and MNDWI, with RMSE lower than pixel size"
